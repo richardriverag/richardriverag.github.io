@@ -12,26 +12,17 @@ redirect_from:
 Education
 ======
 * PhD. in Software, Systems and Computing. 2018 
-Universidad Politécnica de Madrid - IMDEA Software Institute. Madrid, España.
-Tesis: "Tools for the Detection and Analysis of Potentially Unwanted Programs."
-(Sobresaliente – Cum laude).
-Director: PhD. Juan Caballero.
+  * Universidad Politécnica de Madrid - IMDEA Software Institute. Madrid, España.
+  * Thesis: "Tools for the Detection and Analysis of Potentially Unwanted Programs." (Sobresaliente – Cum laude).Director: PhD. Juan Caballero.
 * Máster en Seguridad Informática. 2015
-Universidad Internacional de la Rioja. Logroño, España
-Tesis: Clasificación y Detección de Malware con el Sistema de Análisis de Malware Cuckoo.
-(Sobresaliente)
+  *  Universidad Internacional de la Rioja. Logroño, España
+  *  TFM: Clasificación y Detección de Malware con el Sistema de Análisis de Malware Cuckoo. (Sobresaliente)
 * 2014 Máster en Software y Sistemas.
-Universidad Politécnica de Madrid. Madrid, España.
-Tesis: Evaluación de Características Estáticas para la Clasificación del Malware.
-(Matrícula de Honor)
-Director: PhD. Juan Caballero.
-Estudios en asignaturas: Computación de Alto Rendimiento, Sistemas Operativos, Arquitectura de Computadores, entre otras.
+  * Universidad Politécnica de Madrid. Madrid, España.
+  * TFM: Evaluación de Características Estáticas para la Clasificación del Malware. (Matrícula de Honor). Director: PhD. Juan Caballero.
 * 2011 Ingeniero en Sistemas Informáticos y de Computación.
-Escuela Politécnica Nacional. Quito, Ecuador.
-Tesis: Evaluación de Procesos de Software Usando Evalprosoft Aplicado a un Caso de Estudio.
-(Cum laude)
-Director: Msc. Carlos Montenegro.
-
+  * Escuela Politécnica Nacional. Quito, Ecuador.
+  
 Work experience
 ======
 * March 2019. Professor, Escuela Politécnica Nacional, Quito, Ecuador
@@ -46,23 +37,5 @@ Work experience
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
+ 
   See [publications](/publications/) page.
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
