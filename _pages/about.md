@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am Professor in Computer Security at Escuela Politécnica Nacional (EPN) in Quito, EC, and Lecturer in the Master 
+Currently I am Professor in Computer Security at Escuela Politécnica Nacional (EPN) in Quito, Ecuador. And Lecturer in the Master 
 in Security of Information and Communication Technologies
 at the Univetsitat Oberta de Catalunya.
 I got my Ph.D in Software, Systems and Computing

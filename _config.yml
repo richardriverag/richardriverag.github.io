@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Richard Rivera"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD in Computer Science, security researcher. Professor at EPN & UOC"
   location         : "Quito, EC"
-  employer         :
+  employer         : "Escuela Politécnica Nacional"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RupCOUAAAAAJ&hl=en"
-  email            :  
+  email            :  "richard_rivera@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
