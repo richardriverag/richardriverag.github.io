@@ -17,7 +17,7 @@ I was adviced by Professor Juan Caballero.
 Prior to my Ph.D I received a Software Engineer 
 degree from EPN in Quito, Ecuador,
 a M.Sc. in Software and Systems from UPM and a 
-M.Sc. in Coputer Security from Universidad Internacional de la Rioja (UNIR). 
+M.Sc. in Computer Security from Universidad Internacional de la Rioja (UNIR). 
 
 My research interests are focused on Computer Security and Program Analysis.
 Currently I develop techniques and tools for programs analysis, detection and classification of
