@@ -11,38 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD. in Software, Systems and Computing. 2018 
+Universidad Politécnica de Madrid - IMDEA Software Institute. Madrid, España.
+Tesis: "Tools for the Detection and Analysis of Potentially Unwanted Programs."
+(Sobresaliente – Cum laude).
+Director: PhD. Juan Caballero.
+* Máster en Seguridad Informática. 2015
+Universidad Internacional de la Rioja. Logroño, España
+Tesis: Clasificación y Detección de Malware con el Sistema de Análisis de Malware Cuckoo.
+(Sobresaliente)
+* 2014 Máster en Software y Sistemas.
+Universidad Politécnica de Madrid. Madrid, España.
+Tesis: Evaluación de Características Estáticas para la Clasificación del Malware.
+(Matrícula de Honor)
+Director: PhD. Juan Caballero.
+Estudios en asignaturas: Computación de Alto Rendimiento, Sistemas Operativos, Arquitectura de Computadores, entre otras.
+* 2011 Ingeniero en Sistemas Informáticos y de Computación.
+Escuela Politécnica Nacional. Quito, Ecuador.
+Tesis: Evaluación de Procesos de Software Usando Evalprosoft Aplicado a un Caso de Estudio.
+(Cum laude)
+Director: Msc. Carlos Montenegro.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2019. Professor, Escuela Politécnica Nacional, Quito, Ecuador
+  * Seguridad en redes (2019A, 2019B)
+  * Fundamentos de Programación (2019A, 2019B)
+  * Desarrollo de sistemas de información (2019B)
+  * Técnicas de Análisis y Diseño de Sistemas de Información (2019A, 2019B)
+  * Servicios sobre redes (2019A, 2019B)
+  * Sistemas Operativos (2019A)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2015 - 2018: Investigador, IMDEA Software Institute, Madrid, España
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+  See [publications](/publications/) page.
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
