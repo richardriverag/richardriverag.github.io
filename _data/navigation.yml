@@ -6,8 +6,11 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #  - title: "Teaching"
+  #  url: /teaching/    
+  
+  - title: "COVID-19 Ecuador"
+    url: /covid/   
     
   # - title: "Software"
   #   url: /software/
