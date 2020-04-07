@@ -9,8 +9,8 @@ main:
   #  - title: "Teaching"
   #  url: /teaching/    
   
-  - title: "COVID-19 Ecuador"
-    url: /covid/   
+  - title: "COVID19"
+    url: /covid19/   
     
   # - title: "Software"
   #   url: /software/
