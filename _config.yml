@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Richiriv
+  username               : &twitter "Richiriv"
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,9 @@ author:
   bio              : "PhD in Computer Science, security researcher. Professor at EPN & UOC"
   location         : "Quito, EC"
   employer         : "Escuela Politécnica Nacional"
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RupCOUAAAAAJ&hl=en"
-  email            :  "richard_rivera@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :
+  researchgate     :  "https://www.researchgate.net/profile/Richard_Rivera_Guevara"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "RichiRiv"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
