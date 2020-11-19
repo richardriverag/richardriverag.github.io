@@ -26,12 +26,14 @@ Education
 Work experience
 ======
 * March 2019. Professor, Escuela Politécnica Nacional, Quito, Ecuador
-  * Seguridad en redes (2019A, 2019B)
-  * Fundamentos de Programación (2019A, 2019B)
-  * Desarrollo de sistemas de información (2019B)
+  * Tecnologías de Seguridad (2020A, 2020B)
+  * Seguridad en redes (2019A, 2019B, 2020A, 2020B)
+  * Sistemas Operativos (2019A, 2020A, 2020B)
+  * Fundamentos de Programación (2019A, 2019B, 2020A)
+  * Desarrollo de sistemas de información (2019A, 2019B, 2020A)
   * Técnicas de Análisis y Diseño de Sistemas de Información (2019A, 2019B)
   * Servicios sobre redes (2019A, 2019B)
-  * Sistemas Operativos (2019A)
+  
 
 * 2015 - 2018: Investigador, IMDEA Software Institute, Madrid, España
 
