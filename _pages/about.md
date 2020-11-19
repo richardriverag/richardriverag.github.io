@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 Currently, I am Professor in Computer Security at 
-[link](http://github.com "Escuela Politécnica Nacional") 
+[Escuela Politécnica Nacional](https://esfot.epn.edu.ec/) 
 (EPN) in Quito, Ecuador. 
-And Lecturer in the [link](https://estudios.uoc.edu/es/masters-universitarios/ciberseguridad-privacidad/presentacion "Master in Security and Privacy") at the
- [link](https://www.uoc.edu/portal/es/index.html "Univetsitat Oberta de Catalunya").
+And Lecturer in the [Master in Security and Privacy](https://estudios.uoc.edu/es/masters-universitarios/ciberseguridad-privacidad/presentacion) at the
+ [Univetsitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html).
 I got my Ph.D in Software, Systems and Computing
 from Universidad Politecnica de Madrid(UPM).
 I was adviced by Professor Juan Caballero.
