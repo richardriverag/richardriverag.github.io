@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ## Academic Publications
+15. Ciberseguridad del IoT: Un Análisis en Países de la Unión Europea. Cristian Jimenez, Richard Rivera. RISTI - Revista Iberica de Sistemas e Tecnologias de Informacao. No. E39. 2021.
 
-
-14. Challenges and Opportunities of IoT deployment in Ecuador. Leandro Pazmino, Fanny Flores, Luis Ponce, Juan Zaldumbide, Viviana Parraga, Byron Loarte, ~ Gabriela Cevallos, Ivonne Maldonado, Richard Rivera. International Congress on Information Systems and Software Technologies ICI2ST 2019, Quito.  
+14. Challenges and Opportunities of IoT deployment in Ecuador. Leandro Pazmino, Fanny Flores, Luis Ponce, Juan Zaldumbide, Viviana Parraga, Byron Loarte, Gabriela Cevallos, Ivonne Maldonado, Richard Rivera. International Congress on Information Systems and Software Technologies ICI2ST 2019, Quito.  
 
 
 13. Twitter Mining for Multiclass Classification Events of Traffic and Pollution. Rivera R., Chamorro V,Varela-Aldás J., Castillo-Salazar D., Borja-Galeas C., Guevara C., Arias-Flores H., Fierro-SaltosJairo W., Hidalgo-Guijarro, Yandún-Velasteguí M. International Conference on Human Systems Engineering and Design: Future Trends and Applications, Advances in Intelligent Systems and Computing. Springer, Cham. 2020. ISBN: 978-3-030-27928-8.  
