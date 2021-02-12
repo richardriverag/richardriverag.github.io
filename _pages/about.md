@@ -15,7 +15,7 @@ And Lecturer in the [Master in Security and Privacy](https://estudios.uoc.edu/es
  [Univetsitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html).
 I got my Ph.D in Software, Systems and Computing
 from Universidad Politecnica de Madrid(UPM).
-I was adviced by Professor Juan Caballero.
+I was advised by Professor Juan Caballero.
 Prior to my Ph.D I received a Software Engineer 
 degree from EPN in Quito, Ecuador,
 a M.Sc. in Software and Systems from UPM and a 
