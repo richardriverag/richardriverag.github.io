@@ -14,7 +14,7 @@ Currently, I am Professor in Computer Security at
 And Lecturer in the [Master in Security and Privacy](https://estudios.uoc.edu/es/masters-universitarios/ciberseguridad-privacidad/presentacion) at the
  [Univetsitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html).
 I got my Ph.D in Software, Systems and Computing
-from [Universidad Politecnica de Madrid](https://dssc.fi.upm.es/index.php) (UPM) and the [IMDEA Software Institute] )(https://software.imdea.org/).
+from [Universidad Politecnica de Madrid](https://dssc.fi.upm.es/index.php) (UPM) and the [IMDEA Software Institute](https://software.imdea.org/).
 I was advised by Professor [Juan Caballero](https://software.imdea.org/people/juan.caballero/).
 Prior to my Ph.D I received a Software Engineer 
 degree from EPN in Quito, Ecuador,
