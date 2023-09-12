@@ -16,6 +16,11 @@ author_profile: true
 {% endfor %} -->
 
 ## Academic Publications
+21. A machine learning method for predicting disease-associated microRNA connections using network internal topology data. Healthcare Analytics. Elsevier. 2023.
+20. Challenges and Opportunities of 5G Deployment in Ecuador. Kalpa Publications in Computing. 2023.
+19. Un breve Análisis de Vulnerabilidades en dispositivos IOT en Ecuador. Ciencia Latina Revista Científica Multidisciplinar. 2023.
+18. Support Vector Machine based Multi-Class Classification for Oriented Instance Selection. 2023 International Conference on Inventive Computation Technologies (ICICT). 2023.
+17. Node based Label Propagation for Bitcoin Transaction Pattern Identification Over Similar Community. 2023 International Conference on Inventive Computation Technologies (ICICT). 2023.
 16. An Analysis of Cyber Espionage Process. Richard Rivera, Leandro Pazmiño, Fernando Becerra, Jhonattan Barriga. Developments and Advances in Defense and Security. Smart Innovation, Systems and Technologies, vol 255. Springer, Singapore. 2022.
 15. Cybersecurity in IoT: An analysis in countries of Europe Union. Cristian Jimenez, Richard Rivera. RISTI - Revista Iberica de Sistemas e Tecnologias de Informacao. No. E39. 2021.
 14. Challenges and Opportunities of IoT deployment in Ecuador. Leandro Pazmino, Fanny Flores, Luis Ponce, Juan Zaldumbide, Viviana Parraga, Byron Loarte, Gabriela Cevallos, Ivonne Maldonado, Richard Rivera. International Congress on Information Systems and Software Technologies ICI2ST 2019, Quito.  
