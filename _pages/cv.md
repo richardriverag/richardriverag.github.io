@@ -25,14 +25,20 @@ Education
   
 Teaching experience
 ======
-* 2019 - present: Professor, Escuela Politécnica Nacional, Quito, Ecuador
-  * Tecnologías de Seguridad (2020A, 2020B, 2021A, 2021B)
-  * Intranets (2021B)
-  * Desarrollo en IoT (2021B)
-  * Sistemas Distribuidos (2020B, 2021A)
+* 2022 - present: Professor, Escuela Politécnica Nacional, Facultad de Ingeniería en Sistemas. Quito, Ecuador
+  * Fundamentos de Programación (2022B, 2023A, 2023B)
+  * Diseño de software (2022B, 2023A, 2023B)
+  * Verificación y Validación de Software (2022B, 2023A, 2023B)
+
+* 2019 - present: Professor, Escuela Politécnica Nacional, Escuela de Formación de Tecnólogos. Quito, Ecuador
+  * Fundamentos de Programación (2019A, 2019B, 2020A, 2021A, 2022A)
+  * Seguridad Informática (2019A, 2019B, 2020A, 2020B, 2021A, 2021B, 2022A)
+  * Intranets (2021B, 2022A)
+  * Desarrollo en IoT (2021B, 2022A)
+  * Sistemas Distribuidos (2020B, 2021A, 2022A)
+  * Fundamentos de Programación (2019A, 2019B, 2020A, 2021A, 2022A, 2022B)
   * Seguridad en redes (2019A, 2019B, 2020A, 2020B)
   * Sistemas Operativos (2019A, 2020A, 2020B)
-  * Fundamentos de Programación (2019A, 2019B, 2020A, 2021A)
   * Desarrollo de sistemas de información (2019A, 2019B, 2020A)
   * Técnicas de Análisis y Diseño de Sistemas de Información (2019A, 2019B)
   * Servicios sobre redes (2019A, 2019B)
