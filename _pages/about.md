@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am Professor in Computer Security at 
+Currently, I am Professor in Computer Science at 
 [Escuela Politécnica Nacional](https://fis.epn.edu.ec/) (EPN) in the Department of Informatics and Computer Science. 
  in Quito, Ecuador. 
 And Lecturer in the [Master in Security and Privacy](https://estudios.uoc.edu/es/masters-universitarios/ciberseguridad-privacidad/presentacion) at the
@@ -24,4 +24,4 @@ M.Sc. in Computer Security from Universidad Internacional de la Rioja (UNIR).
 My research interests are focused on Computer Security and Program Analysis.
 Currently, I develop techniques and tools for programs analysis, detection and classification of
 malicious software. Other areas of interest are machine learning, software engineering,
-data science and cyber-espionage.
+and data science.

@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Academic Publications
+22. Blockchain-based trusted dispute resolution service architecture. In Artificial Intelligence, Blockchain, Computing and Security Volume 1 (pp. 670-678). CRC Press.
 21. A machine learning method for predicting disease-associated microRNA connections using network internal topology data. Healthcare Analytics. Elsevier. 2023.
 20. Challenges and Opportunities of 5G Deployment in Ecuador. Kalpa Publications in Computing. 2023.
 19. Un breve Análisis de Vulnerabilidades en dispositivos IOT en Ecuador. Ciencia Latina Revista Científica Multidisciplinar. 2023.
