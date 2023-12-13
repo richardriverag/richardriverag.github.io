@@ -29,8 +29,12 @@ Teaching experience
   * Fundamentos de Programación (2022B, 2023A, 2023B)
   * Diseño de software (2022B, 2023A, 2023B)
   * Verificación y Validación de Software (2022B, 2023A, 2023B)
+  * Fundamentos de Bases de Datos (2022B)
 
-* 2019 - present: Professor, Escuela Politécnica Nacional, Escuela de Formación de Tecnólogos. Quito, Ecuador
+* 2016 - present: Lecturer, Universitat Oberta de Catalunya, Barcelona - Spain
+  * Lecturer and tutor in the Master of CiberSecurity and Privacy
+
+* 2019 - 2022: Professor, Escuela Politécnica Nacional, Escuela de Formación de Tecnólogos. Quito, Ecuador
   * Fundamentos de Programación (2019A, 2019B, 2020A, 2021A, 2022A)
   * Seguridad Informática (2019A, 2019B, 2020A, 2020B, 2021A, 2021B, 2022A)
   * Intranets (2021B, 2022A)
@@ -43,9 +47,6 @@ Teaching experience
   * Técnicas de Análisis y Diseño de Sistemas de Información (2019A, 2019B)
   * Servicios sobre redes (2019A, 2019B)
 
-* 2016 - present: Lecturer, Universitat Oberta de Catalunya, Barcelona - Spain
-  * Lecturer and tutor in the Master of CiberSecurity and Privacy
-  
 * 2015 - 2018: Researcher, IMDEA Software Institute, Madrid, España
 
 Publications
