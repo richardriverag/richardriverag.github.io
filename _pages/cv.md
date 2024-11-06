@@ -26,9 +26,9 @@ Education
 Teaching experience
 ======
 * 2022 - present: Professor, Escuela Politécnica Nacional, Facultad de Ingeniería en Sistemas. Quito, Ecuador
-  * Fundamentos de Programación (2022B, 2023A, 2023B)
-  * Diseño de software (2022B, 2023A, 2023B)
-  * Verificación y Validación de Software (2022B, 2023A, 2023B)
+  * Fundamentos de Programación (2022B, 2023A, 2023B, 2024A, 2024B)
+  * Diseño de software (2022B, 2023A, 2023B, 2024A, 2024B)
+  * Verificación y Validación de Software (2022B, 2023A, 2023B, 2024A, 2024B)
   * Fundamentos de Bases de Datos (2022B)
 
 * 2016 - present: Lecturer, Universitat Oberta de Catalunya, Barcelona - Spain

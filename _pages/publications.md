@@ -16,6 +16,8 @@ author_profile: true
 {% endfor %} -->
 
 ## Academic Publications
+24. Quantum Target Recognition Enhancement Algorithm for UAV Consumer Applications. IEEE Transactions on Consumer Electronics. 2024.
+23. Employing Deep Neural Networks for Real-Time Anomaly Detection and Mitigation in IoT-Based Smart Grid Cybersecurity Systems. 2024 Third International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE). 2024.
 22. Blockchain-based trusted dispute resolution service architecture. In Artificial Intelligence, Blockchain, Computing and Security Volume 1 (pp. 670-678). CRC Press.
 21. A machine learning method for predicting disease-associated microRNA connections using network internal topology data. Healthcare Analytics. Elsevier. 2023.
 20. Challenges and Opportunities of 5G Deployment in Ecuador. Kalpa Publications in Computing. 2023.
