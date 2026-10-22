@@ -26,14 +26,18 @@ Education
 Teaching experience
 ======
 * 2022 - present: Professor, Escuela Politécnica Nacional, Facultad de Ingeniería en Sistemas. Quito, Ecuador
+  * Programación Orientada a Objetos (2025A, 2025B, 2026A, 2026B)
+  * Diseño de software (2022B, 2023A, 2023B, 2024A, 2024B, 2025A, 2026A, 2026B)
+  * Verificación y Validación de Software (2022B, 2023A, 2023B, 2024A, 2024B,2025A, 2025B, 2026A)
   * Fundamentos de Programación (2022B, 2023A, 2023B, 2024A, 2024B)
-  * Diseño de software (2022B, 2023A, 2023B, 2024A, 2024B)
-  * Verificación y Validación de Software (2022B, 2023A, 2023B, 2024A, 2024B)
   * Fundamentos de Bases de Datos (2022B)
 
 * 2016 - present: Lecturer, Universitat Oberta de Catalunya, Barcelona - Spain
   * Lecturer and tutor in the Master of CiberSecurity and Privacy
 
+  2026 - present: Lecturer, Universidad Internacional de la Rioja, Logroño - Spain
+  * Sistemas de Gestión de la Seguridad de la Información (2026B)
+  
 * 2019 - 2022: Professor, Escuela Politécnica Nacional, Escuela de Formación de Tecnólogos. Quito, Ecuador
   * Fundamentos de Programación (2019A, 2019B, 2020A, 2021A, 2022A)
   * Seguridad Informática (2019A, 2019B, 2020A, 2020B, 2021A, 2021B, 2022A)
