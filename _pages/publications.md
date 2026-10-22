@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Academic Publications
-29. A Blockchain-Assisted Fine-Grained Access Control Framework for AI-Native 6G Intelligent Internet of Medical Things. 2026. [doi:10.1109/MCOMSTD.2026.3734465](https://doi.org/10.1109/MCOMSTD.2026.3734465)
+29. A Blockchain-Assisted Fine-Grained Access Control Framework for AI-Native 6G Intelligent Internet of Medical Things. IEEE Communications Standards Magazine. 2026. [doi:10.1109/MCOMSTD.2026.3734465](https://doi.org/10.1109/MCOMSTD.2026.3734465)
 28. CAMS-F: Extending the Context-Aware Mobile System Framework for Cross-Platform Development with Flutter, Firebase, and Google Maps.  Proceedings of the Future Technologies Conference (FTC) 2025, Volume 3. FTC 2025. Lecture Notes in Networks and Systems, vol 1677. Springer, Cham. [https://doi.org/10.1007/978-3-032-07995-4_37](https://doi.org/10.1007/978-3-032-07995-4_37)
 27. Integrating user relationships and features for intelligence of social things aware information diffusion prediction. IEEE Transactions on Computational Social Systems ( Volume: 13, Issue: 1, February 2026).[https://doi.org/10.1109/TCSS.2025.3588781](https://doi.org/10.1109/TCSS.2025.3588781) 
 26. Smells vs. Software Antipatterns: Do Definitions Matter? 2025 IEEE/ACIS 23rd International Conference on Software Engineering Research, Management and Applications (SERA). [https://doi.org/10.1109/SERA65747.2025.11154518](https://doi.org/10.1109/SERA65747.2025.11154518)
